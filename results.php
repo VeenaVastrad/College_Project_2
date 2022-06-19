@@ -106,6 +106,11 @@
                </div>
             </div>
          </div>
+          <div class="footer">
+      <p>Copyright © 2022 FreeBoon - Created By : 
+              <a href="#" target="_blank" title="Build Better UI, Faster">WebPage</a>
+            </p>
+    </div>
       </section>
       <?php include 'assets/includes/footer.php';?>
    </body>
