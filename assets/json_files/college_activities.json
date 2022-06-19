@@ -1,0 +1,13 @@
+{ "college_activities":
+[
+    {
+      "img_id": 1,
+   "prof_img":"assets/images/professors_img/prof_1.jpg",
+   },
+   {
+      "img_id": 2,
+   "prof_img":"assets/images/professors_img/prof_1.jpg"
+     }
+     
+]
+}

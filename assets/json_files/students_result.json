@@ -1,0 +1,29 @@
+[
+    {
+      "std_res_id": 1,
+      "USN":"3RB06EC001",
+      "marks": "0123456789",
+	  "grade":"A"
+
+    },
+	{
+      "std_res_id": 2,
+      "USN":"3RB06EC002",
+      "marks": "0123456789",
+	  "grade":"A+"
+
+    },
+	{
+      "std_res_id": 3,
+      "USN":"3RB06EC003",
+      "marks": "0123456789",
+	  "grade":"A+"
+	},
+	{
+      "std_res_id": 4,
+      "USN":"3RB06EC001",
+      "marks": "0123456789",
+	  "grade":"A"
+
+    }
+  ]

@@ -1,0 +1,66 @@
+{ "professor":
+[
+    {
+      "prof_id": 1,
+      "prof_name":"Prof.A.M Bhavikatti",
+      "department": "E&CE",
+      "position": "HOD",
+	  "prof_img":"assets/images/professors_img/prof_1.jpg",
+     "contact": "+91 0123456789"
+
+    },
+    {
+        "prof_id": 2,
+      "prof_name":"Prof.Deepa Deshpande",
+      "department": "Computer Science",
+      "position": "HOD",
+	   "prof_img":"assets/images/professors_img/prof_2.jpg",
+     
+     "contact": "0123456789"
+  
+      },
+      {
+        "prof_id": 3,
+      "prof_name":"prof.C.K.Patil",
+      "department": "Civil",
+      "position": "HOD",
+	   "prof_img":"assets/images/professors_img/prof_3.jpg",
+     
+     "contact": "0123456789"
+  
+      },
+      
+      {
+      "prof_id": 4,
+      "prof_name":"prof.Amit Deshpande",
+      "department": "Mechanical",
+      "position": "HOD",
+	   "prof_img":"assets/images/professors_img/prof_4.jpg",
+     
+     "contact": "0123456789"
+  
+      },
+      
+      {
+      "prof_id": 5,
+      "prof_name":"prof.Neeraj Kumar",
+      "department": "Electrical",
+      "position": "HOD",
+	   "prof_img":"assets/images/professors_img/prof_5.jpg",
+     
+     "contact": "0123456789"
+  
+      },
+	   {
+      "prof_id": 6,
+      "prof_name":"prof.Kalpana Patil",
+      "department": "Telecommunication",
+      "position": "HOD",
+	   "prof_img":"assets/images/professors_img/prof_6.jpg",
+     
+     "contact": "0123456789"
+  
+      }
+
+]
+}
